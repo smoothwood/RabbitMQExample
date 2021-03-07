@@ -1,0 +1,16 @@
+C:\YCM\Temp\RabbitMQTest\Send\bin\Debug\netcoreapp3.1\Send.exe
+C:\YCM\Temp\RabbitMQTest\Send\bin\Debug\netcoreapp3.1\Send.deps.json
+C:\YCM\Temp\RabbitMQTest\Send\bin\Debug\netcoreapp3.1\Send.runtimeconfig.json
+C:\YCM\Temp\RabbitMQTest\Send\bin\Debug\netcoreapp3.1\Send.runtimeconfig.dev.json
+C:\YCM\Temp\RabbitMQTest\Send\bin\Debug\netcoreapp3.1\Send.dll
+C:\YCM\Temp\RabbitMQTest\Send\bin\Debug\netcoreapp3.1\Send.pdb
+C:\YCM\Temp\RabbitMQTest\Send\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\YCM\Temp\RabbitMQTest\Send\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\YCM\Temp\RabbitMQTest\Send\obj\Debug\netcoreapp3.1\Send.csprojAssemblyReference.cache
+C:\YCM\Temp\RabbitMQTest\Send\obj\Debug\netcoreapp3.1\Send.AssemblyInfoInputs.cache
+C:\YCM\Temp\RabbitMQTest\Send\obj\Debug\netcoreapp3.1\Send.AssemblyInfo.cs
+C:\YCM\Temp\RabbitMQTest\Send\obj\Debug\netcoreapp3.1\Send.csproj.CoreCompileInputs.cache
+C:\YCM\Temp\RabbitMQTest\Send\obj\Debug\netcoreapp3.1\Send.csproj.CopyComplete
+C:\YCM\Temp\RabbitMQTest\Send\obj\Debug\netcoreapp3.1\Send.dll
+C:\YCM\Temp\RabbitMQTest\Send\obj\Debug\netcoreapp3.1\Send.pdb
+C:\YCM\Temp\RabbitMQTest\Send\obj\Debug\netcoreapp3.1\Send.genruntimeconfig.cache

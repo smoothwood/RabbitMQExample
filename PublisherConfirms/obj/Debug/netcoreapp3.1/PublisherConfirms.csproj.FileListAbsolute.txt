@@ -1,0 +1,16 @@
+C:\YCM\Temp\RabbitMQTest\PublisherConfirms\bin\Debug\netcoreapp3.1\PublisherConfirms.exe
+C:\YCM\Temp\RabbitMQTest\PublisherConfirms\bin\Debug\netcoreapp3.1\PublisherConfirms.deps.json
+C:\YCM\Temp\RabbitMQTest\PublisherConfirms\bin\Debug\netcoreapp3.1\PublisherConfirms.runtimeconfig.json
+C:\YCM\Temp\RabbitMQTest\PublisherConfirms\bin\Debug\netcoreapp3.1\PublisherConfirms.runtimeconfig.dev.json
+C:\YCM\Temp\RabbitMQTest\PublisherConfirms\bin\Debug\netcoreapp3.1\PublisherConfirms.dll
+C:\YCM\Temp\RabbitMQTest\PublisherConfirms\bin\Debug\netcoreapp3.1\PublisherConfirms.pdb
+C:\YCM\Temp\RabbitMQTest\PublisherConfirms\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\YCM\Temp\RabbitMQTest\PublisherConfirms\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\YCM\Temp\RabbitMQTest\PublisherConfirms\obj\Debug\netcoreapp3.1\PublisherConfirms.csprojAssemblyReference.cache
+C:\YCM\Temp\RabbitMQTest\PublisherConfirms\obj\Debug\netcoreapp3.1\PublisherConfirms.AssemblyInfoInputs.cache
+C:\YCM\Temp\RabbitMQTest\PublisherConfirms\obj\Debug\netcoreapp3.1\PublisherConfirms.AssemblyInfo.cs
+C:\YCM\Temp\RabbitMQTest\PublisherConfirms\obj\Debug\netcoreapp3.1\PublisherConfirms.csproj.CoreCompileInputs.cache
+C:\YCM\Temp\RabbitMQTest\PublisherConfirms\obj\Debug\netcoreapp3.1\PublisherConfirms.csproj.CopyComplete
+C:\YCM\Temp\RabbitMQTest\PublisherConfirms\obj\Debug\netcoreapp3.1\PublisherConfirms.dll
+C:\YCM\Temp\RabbitMQTest\PublisherConfirms\obj\Debug\netcoreapp3.1\PublisherConfirms.pdb
+C:\YCM\Temp\RabbitMQTest\PublisherConfirms\obj\Debug\netcoreapp3.1\PublisherConfirms.genruntimeconfig.cache

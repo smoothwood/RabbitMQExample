@@ -1,0 +1,16 @@
+C:\YCM\Temp\RabbitMQTest\RabbitMQSender\bin\Debug\netcoreapp3.1\RabbitMQSender.exe
+C:\YCM\Temp\RabbitMQTest\RabbitMQSender\bin\Debug\netcoreapp3.1\RabbitMQSender.deps.json
+C:\YCM\Temp\RabbitMQTest\RabbitMQSender\bin\Debug\netcoreapp3.1\RabbitMQSender.runtimeconfig.json
+C:\YCM\Temp\RabbitMQTest\RabbitMQSender\bin\Debug\netcoreapp3.1\RabbitMQSender.runtimeconfig.dev.json
+C:\YCM\Temp\RabbitMQTest\RabbitMQSender\bin\Debug\netcoreapp3.1\RabbitMQSender.dll
+C:\YCM\Temp\RabbitMQTest\RabbitMQSender\bin\Debug\netcoreapp3.1\RabbitMQSender.pdb
+C:\YCM\Temp\RabbitMQTest\RabbitMQSender\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\YCM\Temp\RabbitMQTest\RabbitMQSender\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\YCM\Temp\RabbitMQTest\RabbitMQSender\obj\Debug\netcoreapp3.1\RabbitMQSender.AssemblyInfoInputs.cache
+C:\YCM\Temp\RabbitMQTest\RabbitMQSender\obj\Debug\netcoreapp3.1\RabbitMQSender.AssemblyInfo.cs
+C:\YCM\Temp\RabbitMQTest\RabbitMQSender\obj\Debug\netcoreapp3.1\RabbitMQSender.csproj.CoreCompileInputs.cache
+C:\YCM\Temp\RabbitMQTest\RabbitMQSender\obj\Debug\netcoreapp3.1\RabbitMQSender.csproj.CopyComplete
+C:\YCM\Temp\RabbitMQTest\RabbitMQSender\obj\Debug\netcoreapp3.1\RabbitMQSender.dll
+C:\YCM\Temp\RabbitMQTest\RabbitMQSender\obj\Debug\netcoreapp3.1\RabbitMQSender.pdb
+C:\YCM\Temp\RabbitMQTest\RabbitMQSender\obj\Debug\netcoreapp3.1\RabbitMQSender.genruntimeconfig.cache
+C:\YCM\Temp\RabbitMQTest\RabbitMQSender\obj\Debug\netcoreapp3.1\RabbitMQSender.csprojAssemblyReference.cache

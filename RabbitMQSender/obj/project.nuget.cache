@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "XSW6SxxYpvtgXl4j74N2mIt7Jz/qeWBZ1BCxccGOLH/yKf14nOUK5jQ/GzXQNMDVa8sDDdw3/nhadvx78VU9XQ==",
+  "success": true,
+  "projectFilePath": "C:\\YCM\\Temp\\RabbitMQTest\\RabbitMQSender\\RabbitMQSender.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ycm\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
+    "C:\\Users\\ycm\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\ycm\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\YCM\Temp\RabbitMQTest\RPCServer\bin\Debug\netcoreapp3.1\RPCServer.exe
+C:\YCM\Temp\RabbitMQTest\RPCServer\bin\Debug\netcoreapp3.1\RPCServer.deps.json
+C:\YCM\Temp\RabbitMQTest\RPCServer\bin\Debug\netcoreapp3.1\RPCServer.runtimeconfig.json
+C:\YCM\Temp\RabbitMQTest\RPCServer\bin\Debug\netcoreapp3.1\RPCServer.runtimeconfig.dev.json
+C:\YCM\Temp\RabbitMQTest\RPCServer\bin\Debug\netcoreapp3.1\RPCServer.dll
+C:\YCM\Temp\RabbitMQTest\RPCServer\bin\Debug\netcoreapp3.1\RPCServer.pdb
+C:\YCM\Temp\RabbitMQTest\RPCServer\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\YCM\Temp\RabbitMQTest\RPCServer\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\YCM\Temp\RabbitMQTest\RPCServer\obj\Debug\netcoreapp3.1\RPCServer.csprojAssemblyReference.cache
+C:\YCM\Temp\RabbitMQTest\RPCServer\obj\Debug\netcoreapp3.1\RPCServer.AssemblyInfoInputs.cache
+C:\YCM\Temp\RabbitMQTest\RPCServer\obj\Debug\netcoreapp3.1\RPCServer.AssemblyInfo.cs
+C:\YCM\Temp\RabbitMQTest\RPCServer\obj\Debug\netcoreapp3.1\RPCServer.csproj.CoreCompileInputs.cache
+C:\YCM\Temp\RabbitMQTest\RPCServer\obj\Debug\netcoreapp3.1\RPCServer.csproj.CopyComplete
+C:\YCM\Temp\RabbitMQTest\RPCServer\obj\Debug\netcoreapp3.1\RPCServer.dll
+C:\YCM\Temp\RabbitMQTest\RPCServer\obj\Debug\netcoreapp3.1\RPCServer.pdb
+C:\YCM\Temp\RabbitMQTest\RPCServer\obj\Debug\netcoreapp3.1\RPCServer.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\YCM\Temp\RabbitMQTest\Receive\bin\Debug\netcoreapp3.1\Receive.exe
+C:\YCM\Temp\RabbitMQTest\Receive\bin\Debug\netcoreapp3.1\Receive.deps.json
+C:\YCM\Temp\RabbitMQTest\Receive\bin\Debug\netcoreapp3.1\Receive.runtimeconfig.json
+C:\YCM\Temp\RabbitMQTest\Receive\bin\Debug\netcoreapp3.1\Receive.runtimeconfig.dev.json
+C:\YCM\Temp\RabbitMQTest\Receive\bin\Debug\netcoreapp3.1\Receive.dll
+C:\YCM\Temp\RabbitMQTest\Receive\bin\Debug\netcoreapp3.1\Receive.pdb
+C:\YCM\Temp\RabbitMQTest\Receive\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\YCM\Temp\RabbitMQTest\Receive\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\YCM\Temp\RabbitMQTest\Receive\obj\Debug\netcoreapp3.1\Receive.AssemblyInfoInputs.cache
+C:\YCM\Temp\RabbitMQTest\Receive\obj\Debug\netcoreapp3.1\Receive.AssemblyInfo.cs
+C:\YCM\Temp\RabbitMQTest\Receive\obj\Debug\netcoreapp3.1\Receive.csproj.CoreCompileInputs.cache
+C:\YCM\Temp\RabbitMQTest\Receive\obj\Debug\netcoreapp3.1\Receive.csproj.CopyComplete
+C:\YCM\Temp\RabbitMQTest\Receive\obj\Debug\netcoreapp3.1\Receive.dll
+C:\YCM\Temp\RabbitMQTest\Receive\obj\Debug\netcoreapp3.1\Receive.pdb
+C:\YCM\Temp\RabbitMQTest\Receive\obj\Debug\netcoreapp3.1\Receive.genruntimeconfig.cache
+C:\YCM\Temp\RabbitMQTest\Receive\obj\Debug\netcoreapp3.1\Receive.csprojAssemblyReference.cache
