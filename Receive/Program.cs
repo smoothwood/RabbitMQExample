@@ -11,10 +11,15 @@ namespace Receive
         {
             var factory = new ConnectionFactory()
             {
-                HostName = "localhost"
+                //HostName = "localhost"
+                UserName = "ycm",
+                Password = "ycm119"
+
             };
 
-            using(var connection = factory.CreateConnection())
+
+
+            using (var connection = factory.CreateConnection(new string[2] { "52.246.181.64", "40.115.183.202" }))
             {
                 using(var channel = connection.CreateModel())
                 {
